@@ -22,6 +22,7 @@ You should aim for a solution with O(n) time and O(n) space, where n is the size
 # Hint 1
 A naive solution would be to count the frequency of each number and then sort the array based on each element’s frequency. After that, we would select the top k frequent elements. This would be an O(nlogn) solution. Though this solution is acceptable, can you think of a better way?
 
+
 # Hint 2
 Can you think of an algorithm which involves grouping numbers based on their frequency?
 
